@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  cilist:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-03-26T07:26:00.380930737+07:00"
+    description: Apps CILIST gak jelas cilsy
+    digest: 08024831da22d5a8157cb904f29df8191c6244fa94c38e03c4407944880a9714
+    name: cilist
+    type: application
+    urls:
+    - cilist-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-03-26T07:26:00.38035435+07:00"
